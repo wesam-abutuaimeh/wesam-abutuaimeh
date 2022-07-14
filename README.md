@@ -6,9 +6,8 @@ Here are some self-description help you being familiar with me:)
 - 💪 I’m currently learning javaScript.
 - 🕗 I'm from palestine （UTC+2）
 - 📫 Reach me by email: [wesam.abutuaimeh@gmail.com)
-- ⚡ Someday , there going to be an update version of me .
+- ⚡ Someday , there going to be an update version of me . <br/>
 <!-- ![imgs](mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg) -->
 <img src="mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" alt="imgs" width="100%" height="80%"></img>
-### GoodLuck 
 
-<h1 align="center">Material Bread</h1>
+<h6 align="center">GoodLuck ❤️</h6>
