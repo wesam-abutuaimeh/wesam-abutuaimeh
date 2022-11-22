@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+# Hey!! Great to see you here! <img src="wave.gif" width="30px" height="30px">
 ##  I'm Wesam Abutaima Front-End Developer
 
 Pursuing my Bachelor's in information technology **IT**  from <a href="http://cst.ps/" target="_blank">UCST</a>. university  <br/>
