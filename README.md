@@ -1,14 +1,29 @@
-# Hello World.
-## Welcome to my gitHub profile 👋
+# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+##  I'm Wesam Abutaima Front-End Developer
+
+Pursuing my Bachelor's in information technology **IT**  from (http://cst.ps/). university  <br/>
 Here are some self-description help you being familiar with me:)
 
-- 🏫 I’m a university student.
 - 👨🏻‍💻 I’m currently A Front-End Developer
-- 💪 I’m currently learning javaScript.
+- 💡 Always eager to work with others on projects and creative ideas
 - 🕗 I'm from palestine （UTC+2）
-- 📫 Reach me by email: [wesam.abutuaimeh@gmail.com)
-- ⚡ Someday , there going to be an update version of me . <br/>
-<!-- ![imgs](mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg) -->
+- 📫 You can Reach me via my email: [wesam.abutuaimeh@gmail.com **_OR_** 120207097@ucst.edu.ps]
+- 🔰 All my works did by ❤️ 
+- ⚡ Working with precision and passion is my hobby.
+- ⚡ Someday , there going to be an update version of me .
+<br/>
+
+<pre>
+<code>
+class SoftwareDeveloper {
+  constructor(name , title , location) {
+    this.name = "Wesam Abutaima";
+    this.title = "Front-End Developer";
+    this.location= "Palestine-Gaza"
+}
+</code>
+</pre>
+
 <img src="mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" alt="imgs" width="100%" height="80%"></img>
 
 <h6 align="center">GoodLuck ❤️</h6>
