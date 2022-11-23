@@ -7,7 +7,7 @@ Here are some self-description help you being familiar with me:)
 - 👨🏻‍💻 I’m currently A Front-End Developer
 - 💡 Always eager to work with others on projects and creative ideas
 - 🕗 I'm from palestine （UTC+2）
-- 📫 You can Reach me via my email: [wesam.abutuaimeh@gmail.com **_OR_** 120207097@ucst.edu.ps]
+- 📫 You can Reach me via my email: [wesam@ucst.edu.ps]
 - 🔰 All my works did by ❤️ 
 - ⚡ Working with precision and passion is my hobby.
 - ⚡ Someday , there going to be an update version of me .
