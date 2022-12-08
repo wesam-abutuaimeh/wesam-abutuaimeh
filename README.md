@@ -23,7 +23,11 @@ class SoftwareDeveloper {
 }
 </code>
 </pre>
+<br/>
+<br/>
 
+<h2 align="center">Skils 🔰</h6>
+HTML5 - CSS3 - JS - [ES6] - SASS
 <img src="mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" alt="imgs" width="100%" height="80%"></img>
 
 <h6 align="center">GoodLuck ❤️</h6>
