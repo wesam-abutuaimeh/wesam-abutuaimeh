@@ -9,6 +9,7 @@ Here are some self-description help you being familiar with me:)
 - 🔰 All my works did by ❤️ 
 - ⚡ Working with precision and passion is my hobby.
 - ⚡ Someday , there going to be an update version of me .
+- 🏅 If you can't find me here, I'll be at the gym .
 <br/>
 <pre>
 <code>
