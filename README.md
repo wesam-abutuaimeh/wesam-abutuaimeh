@@ -1,7 +1,7 @@
 # Hey!! Great to see you here! <img src="wave.gif" width="30px" height="30px">
 ##  I'm Wesam Abutaima Front-End Developer
 <br/>
-Here are some self-description help you being familiar with me:)
+Here are some self-description help you being familiar with me:)<br/>
 - 👨🏻‍💻 I’m currently A Front-End Developer
 - 💡 Always eager to work with others on projects and creative ideas
 - 🕗 I'm from palestine （UTC+2）
