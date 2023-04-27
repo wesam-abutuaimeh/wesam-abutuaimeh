@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="wave.gif" width="30px" height="30px">
 ##  I'm Wesam Abutaima Front-End Developer
-Pursuing my Bachelor's in information technology **IT**  from <a href="http://cst.ps/" target="_blank">UCST</a>. university  <br/>
+<br/>
 Here are some self-description help you being familiar with me:)
 - 👨🏻‍💻 I’m currently A Front-End Developer
 - 💡 Always eager to work with others on projects and creative ideas
