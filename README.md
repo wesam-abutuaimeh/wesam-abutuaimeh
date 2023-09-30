@@ -21,7 +21,7 @@ class SoftwareDeveloper {
 <br/>
 <h2 align="center">Skils 🔰</h6>
 <br/>
-HTML5 - CSS3 - JS - [ES6+7] - Bootstrap - SASS - Pugjs - Integration With APIs - ReactJS
+HTML5 - CSS3 - JS - [ES6+7] - Bootstrap - SASS - Pugjs - Integration With APIs - ReactJS - NEXT.JS - Typescript
 <br/>
 <br/>
 <img src="mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg" alt="imgs" width="100%" height="80%"></img>
